@@ -1,6 +1,6 @@
 # OverTheWire: Bandit — Write-ups
 
-Notes from working through the Bandit wargame, documenting the reasoning behind each solution rather than just the final command. Passwords are intentionally omitted — publishing solutions defeats the purpose of the challenge for other learners.
+Notes from working through the Bandit wargame, documenting the reasoning behind each solution rather than just the final command. Passwords are intentionally omitted - publishing solutions defeats the purpose of the challenge for other learners.
 
 ---
 
@@ -18,7 +18,7 @@ ls
 cat readme
 ```
 
-**What I learned:** `ls` lists the contents of a directory. `cat` prints a text file's contents straight to the terminal — no decryption or processing involved, it's a plain read.
+**What I learned:** `ls` lists the contents of a directory. `cat` prints a text file's contents straight to the terminal, no decryption or processing involved, it's a plain read.
 
 ---
 
